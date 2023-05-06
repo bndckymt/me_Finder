@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">me_Finder</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string-array name="Region">
+        <item>1 </item>
+        <item>2 </item>
+        <item>3 </item>
+        <item>4 </item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="Province">
+        <item>Ilocos Norte</item>
+        <item>Cagayan Valley</item>
+        <item>Central Luzon</item>
+        <item>Calabarzon</item>
+        <item>Bicol Region</item>
+        <item>Western Visayas</item>
+        <item>Central Visayas</item>
+        <item>Eastern Visayas</item>
+        <item>Zamboanga Peninsula</item>
+        <item>Northern Mindanao</item>
+        <item>Davao Region</item>
+        <item>Soccsksargen</item>
+        <item>National Capital Region</item>
+        <item>Cordillera Administrative Region</item>
+        <item>Caraga</item>
+        <item>Southwestern Tagalog Region</item>
+        <item>Bangsamoro</item>
+    </string-array>
+
+    <string-array name="Region_1">
+        <item>Ilocos Norte</item>
+        <item>Ilocos Sur</item>
+        <item>La Union</item>
+        <item>Pangasinan</item>
+    </string-array>
+
+    <string-array name="Cagayan_Valley">
+        <item>Batanes</item>
+        <item>Cagayan</item>
+        <item>Isabela</item>
+        <item>Bayombong</item>
+        <item>Cabarugis</item>
+    </string-array>
+
+</resources>
